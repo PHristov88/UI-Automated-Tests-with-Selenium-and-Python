@@ -1,5 +1,5 @@
 # UI-Automated-Tests-with-Selenium-and-Python
-Demo site testing
+Demo site testing with unittest framework
 App URL: https://jqueryui.com/
 Code screenshots: 
 
